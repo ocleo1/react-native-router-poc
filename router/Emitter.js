@@ -20,3 +20,5 @@ export const REPLACE = 'replace';
 export const POP = 'pop';
 export const POP_TO_ROUTE = 'popToRoute';
 export const POP_TO_TOP = 'popToTop';
+export const OPEN_MODAL = 'openModal';
+export const CLOSE_MODAL = 'closeModal';
